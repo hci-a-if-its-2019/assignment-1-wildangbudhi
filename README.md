@@ -1,8 +1,8 @@
 # Contextual Inquiry and Analysis
 ## Device/ App/ Website Description
 <p align="center">
-  <img width="250" src="/Quran1.png">
-  <img width="250" src="/Quran2.png">
+  <img width="250" src="/img/Quran1.png">
+  <img width="250" src="/img/Quran2.png">
 </p>
 
 Al -Qur'an Bahasa Indonesia is a Android Application which contains Holy Quran so we can read Quran anywhere, anytime no need to carry Printed Quran, Audio Of Qori' (someone who read Quran) so we can read Quran read the Quran well, last but not least this app have a feature that remind us to sholat (pray)
@@ -60,15 +60,15 @@ A --> Interviewee
 ## Models and Annotations
 ### Artifact Model
 <p align="center">
-  <img width="300" src="/Error1.png">
-  <img width="300" src="/Error2.png">
+  <img width="300" src="/img/Error1.png">
+  <img width="300" src="/img/Error2.png">
 </p>
 
 ### Flow Model
-![Flow Model and Annotation](/flowModel.png)
+![Flow Model and Annotation](/img/flowModel.png)
 
 ### Cultural Model
-![Cultural Model and Annotation](/CulturalModel.png)
+![Cultural Model and Annotation](/img/CulturalModel.png)
 
 ## Do's and Don't's
 - Make a new icon for Sholat Reminder feature so can be visible
