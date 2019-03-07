@@ -59,7 +59,11 @@ A --> Interviewee
 
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+<p align="center">
+  <img src="/Error1.png">
+  <img src="/Error2.png">
+</p>
+
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
