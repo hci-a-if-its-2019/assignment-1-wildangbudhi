@@ -60,8 +60,8 @@ A --> Interviewee
 ## Models and Annotations
 ### Artifact Model
 <p align="center">
-  <img src="/Error1.png">
-  <img src="/Error2.png">
+  <img width="300" src="/Error1.png">
+  <img width="300" src="/Error2.png">
 </p>
 
 ### Flow Model
