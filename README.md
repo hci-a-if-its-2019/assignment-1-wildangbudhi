@@ -65,7 +65,7 @@ A --> Interviewee
 </p>
 
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model and Annotation](/flowModel.png)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
