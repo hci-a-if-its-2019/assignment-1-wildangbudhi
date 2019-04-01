@@ -73,3 +73,13 @@ A --> Interviewee
 ## Do's and Don't's
 - Make a new icon for Sholat Reminder feature so can be visible
 - Makes teh search feature to can search by sub string
+
+# Remarks
+> * Thanks for completing this assignment. Nevertheless, please submit the next assignments on time for better score.
+> * The `Instruction Script` are better written in exclamation expression. For example, write `Find Surah Al-Waqi'ah Ayah 25` instead of `User must find Surah Al-Waqi'ah Ayah 25`. The `Instruction Script` basically consists of what you're going to say exactly to the participants during the CI.
+> * The `Cultural Model` or `Social Model` should illustrate the participant's feeling about the system or any experiences of him/her that may affect the way s/he uses the system. In my opinion, the `Cultural Model` presented in this report is incorrect. It's more like another `Flow Model`.
+> * Are you sure you do not have any `Don't's` you may propose based on your CI? If there is not, it is fine though.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 5                | 3               | 84                 | 60         | 79,2  |
